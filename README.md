@@ -30,5 +30,6 @@ Miniconda官网：https://docs.conda.io/en/latest/miniconda.html <br>
 4.Ubuntu系统下conda工具下pytorch的安装 
 https://blog.csdn.net/liuzhuomei0911/article/details/89784998 <br>
 pytorch官网（get started）：https://pytorch.org/get-started/locally/#anaconda <br>
+（因为实验室台式机是集显无独显，就没装cuda）
 
 
