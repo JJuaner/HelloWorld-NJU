@@ -8,7 +8,9 @@
 >>d.vpn：安装配置ShadowsocksR-win-4.9.2、访问固定google<br> 
 
 ## Day2(2020.9.21)
-1.linux vim操作
+1.玩转 WSL 并配置Linux下的开发调试环境 https://zhuanlan.zhihu.com/p/49227132
+
+2.linux vim操作
 >> esc 切换命令模式
 >>> i  insert<br> 
 >>> u  撤销一次操作<br> 
@@ -20,3 +22,8 @@
 >>>:q  不保存文件，退出vi<br> 
 >>>:q! 不保存文件，强制退出vi<br> 
 >>>:e! 放弃所有修改，从上次保存文件开始再编辑<br> 
+
+3.Ubuntu系统下conda的安装与使用
+https://blog.csdn.net/weixin_43840215/article/details/89599559 
+Miniconda官网：https://docs.conda.io/en/latest/miniconda.html
+
