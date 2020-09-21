@@ -23,13 +23,15 @@
 
 2.玩转 WSL 并配置Linux下的开发调试环境 https://zhuanlan.zhihu.com/p/49227132
 
-3.Ubuntu系统下conda的安装、配置、使用
+3.Ubuntu系统下conda的安装、配置、使用<br>
 https://blog.csdn.net/weixin_43840215/article/details/89599559 <br>
 Miniconda官网：https://docs.conda.io/en/latest/miniconda.html <br>
 
-4.Ubuntu系统下conda工具下pytorch的安装 
+4.Ubuntu系统下conda工具下pytorch的安装 <br>
 https://blog.csdn.net/liuzhuomei0911/article/details/89784998 <br>
 pytorch官网（get started）：https://pytorch.org/get-started/locally/#anaconda <br>
 （因为实验室台式机是集显无独显，就没装cuda）
 
+5.CUDA<br>
+CUDA是Nvidia推出的只能用于自家GPU的并行计算框架。只有安装这个框架才能够进行复杂的并行计算。主流的深度学习框架也都是基于CUDA进行GPU并行加速的，几乎无一例外。还有一个叫做cudnn，是针对深度卷积神经网络的加速库。
 
