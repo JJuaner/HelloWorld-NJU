@@ -40,3 +40,5 @@ CUDA是Nvidia推出的只能用于自家GPU的并行计算框架。只有安装�
 1.教育邮箱、安装pycharm、激活
 https://www.jarod8.cn/index.php/archives/5/
 
+## Day4(2020.9.23)
+1.学习pytorch 官网tutorial
