@@ -43,3 +43,6 @@ https://www.jarod8.cn/index.php/archives/5/
 
 ## Day4(2020.9.23)
 1.学习pytorch 官网tutorial
+
+## Day5(2020.9.29)
+1.踩坑pycharm不支持wsl虚拟环境(wsl+conda+pycharm不行)
