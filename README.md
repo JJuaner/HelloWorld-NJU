@@ -47,4 +47,10 @@ https://www.jarod8.cn/index.php/archives/5/
 
 ## Day5(2020.9.29)
 1.踩坑pycharm不支持wsl虚拟环境(wsl+conda+pycharm不行)<br>
-2.环境乱七八糟不太懂，直接卸载重新安装wsl，目标使用自带python，安装后注意修改源并更新然后装pip包管理工具<br>
+2.目标使用自带python,环境乱七八糟不太懂
+>>直接卸载重新安装wsl<br>
+>>安装后注意修改源并更新<br>
+>>`sudo apt install python3-pip`装pip包管理工具<br>
+>>安装pytorch
+>>>坑：pycharm中import torch不能识别，重启pycharm！！
+
