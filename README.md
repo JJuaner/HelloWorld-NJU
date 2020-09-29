@@ -26,6 +26,7 @@
 3.Ubuntu系统下conda的安装、配置、使用<br>
 conda是什么，有什么用：虚拟环境管理器(创建高度独立的虚拟环境)+包管理器https://blog.csdn.net/zhouchen1998/article/details/84671528
 https://blog.csdn.net/weixin_43840215/article/details/89599559 <br>
+https://www.cnblogs.com/liangxuran/p/13473664.html<br>
 Miniconda官网：https://docs.conda.io/en/latest/miniconda.html <br>
 
 4.Ubuntu系统下conda工具下pytorch的安装 <br>
