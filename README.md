@@ -21,7 +21,7 @@
 >>>:q! 不保存文件，强制退出vi<br> 
 >>>:e! 放弃所有修改，从上次保存文件开始再编辑<br> 
 
-2.玩转 WSL 并配置Linux下的开发调试环境 https://zhuanlan.zhihu.com/p/49227132
+2.玩转 WSL 并配置Linux下的开发调试环境(linux自带python) https://zhuanlan.zhihu.com/p/49227132
 
 3.Ubuntu系统下conda的安装、配置、使用<br>
 conda是什么，有什么用：虚拟环境管理器(创建高度独立的虚拟环境)+包管理器https://blog.csdn.net/zhouchen1998/article/details/84671528
