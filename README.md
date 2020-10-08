@@ -59,7 +59,8 @@ https://www.jarod8.cn/index.php/archives/5/
 >>main+enter/tab  
 
 2.矩阵论编程作业  
->>pytorch+线性代数
->>torch.randn @  torch.cat ZeroPad2d(0填充)  
->>matrix.t() matrix.pinverse()矩阵的伪逆
->>np.argmax() np.array()
+>>算法原理：OMP贪婪迭代算法的正交匹配算法 https://zhuanlan.zhihu.com/p/52276805  
+>>编程实现：pytorch+线性代数
+>>>torch.randn @  torch.cat ZeroPad2d(0填充)  
+>>>matrix.t() matrix.pinverse()矩阵的伪逆
+>>>np.argmax() np.array()
