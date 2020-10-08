@@ -54,3 +54,12 @@ https://www.jarod8.cn/index.php/archives/5/
 >>安装pytorch
 >>>坑：pycharm中import torch不能识别，重启pycharm！！
 
+## Day6(2020.10.7)
+1.pycharm
+>>main+enter/tab  
+
+2.矩阵论编程作业  
+>>pytorch+线性代数
+>>torch.randn @  torch.cat ZeroPad2d(0填充)  
+>>matrix.t() matrix.pinverse()矩阵的伪逆
+>>np.argmax() np.array()
