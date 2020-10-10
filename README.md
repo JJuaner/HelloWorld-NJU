@@ -66,4 +66,6 @@ https://www.jarod8.cn/index.php/archives/5/
 >>>np.argmax() np.array()
 
 ## Day7(2020.10.8)
-1.学习KL散度 https://www.jianshu.com/p/43318a3dc715  
+1.TCA论文
+>>学习KL散度 https://www.jianshu.com/p/43318a3dc715  
+>>学习核函数
