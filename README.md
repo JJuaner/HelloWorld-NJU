@@ -72,5 +72,7 @@ https://www.jarod8.cn/index.php/archives/5/
 
 ## Day8(2020.10.10)
 1.git代码:踩坑pycharm不支持wsl1的git，所以考虑：
->>1.不通过pycharm直接使用wsl的git操作文件 https://blog.csdn.net/galoislyj/article/details/53552182  
->>2.windows安装git：github是服务端，要想在自己电脑上使用git我们还需要一个git客户端
+>>1.不通过pycharm直接使用wsl的git操作文件   
+>>2.windows安装git：github是服务端，要想在自己电脑上使用git我们还需要一个git客户端  
+>>>模式一：https://blog.csdn.net/galoislyj/article/details/53552182  
+>>>模式二：https://blog.csdn.net/jackson23333/article/details/81315474
