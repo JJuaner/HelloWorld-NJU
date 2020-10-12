@@ -79,5 +79,5 @@ https://www.jarod8.cn/index.php/archives/5/
 
 ## Day9(2020.10.11)
 1.实现BST构造及其前序中序的栈遍历  
-2.熟悉repo->本地模式，代码提交到mian  
+2.熟悉repo->本地模式2，代码提交到mian(git push origin main)，并解决每次提交需要输密码问题https://www.cnblogs.com/sky6862/p/7992736.html    
 3.阅读点点第2篇多标签论文  
