@@ -76,3 +76,8 @@ https://www.jarod8.cn/index.php/archives/5/
 >>2.windows安装git：github是服务端，要想在自己电脑上使用git我们还需要一个git客户端  
 >>>模式一：https://blog.csdn.net/galoislyj/article/details/53552182  
 >>>模式二：https://www.cnblogs.com/cxk1995/p/5800196.html
+
+## Day9(2020.10.11)
+1.实现BST构造及其前序中序的栈遍历
+2.熟悉repo->本地模式，代码提交到mian
+3.阅读点点第2篇多标签论文 
