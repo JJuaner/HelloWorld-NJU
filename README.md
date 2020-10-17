@@ -81,3 +81,12 @@ https://www.jarod8.cn/index.php/archives/5/
 1.实现BST构造及其前序中序的栈遍历  
 2.熟悉repo->本地模式2，代码提交到mian(git push origin main)，并解决每次提交需要输密码问题https://www.cnblogs.com/sky6862/p/7992736.html    
 3.阅读点点第2篇多标签论文  
+
+## Day10(2020.10.16)
+1.阅读JDA论文
+>>学习《统计学习方法》PCA  
+
+## Day11(2020.10.17)
+1.复现JDA代码
+>>a.参考王晋东github：https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA/JDA.py  
+>>b.pip导包：1.打开的目录pip即可 2.注意使用pip3  
