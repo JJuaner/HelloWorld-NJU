@@ -75,7 +75,7 @@ https://www.jarod8.cn/index.php/archives/5/
 >>1.不通过pycharm直接使用wsl的git操作文件   
 >>2.windows安装git：github是服务端，要想在自己电脑上使用git我们还需要一个git客户端  
 >>>模式一：https://blog.csdn.net/galoislyj/article/details/53552182  
->>>模式二：https://www.cnblogs.com/cxk1995/p/5800196.html
+>>>模式二：https://www.cnblogs.com/xueweisuoyong/p/11914045.html  https://www.cnblogs.com/cxk1995/p/5800196.html
 
 ## Day9(2020.10.11)
 1.实现BST构造及其前序中序的栈遍历  
