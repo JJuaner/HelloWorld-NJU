@@ -90,3 +90,6 @@ https://www.jarod8.cn/index.php/archives/5/
 1.复现JDA代码
 >>a.参考王晋东github：https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA/JDA.py  
 >>b.pip导包：1.打开的目录pip即可 2.注意使用pip3 3.如果极慢第一次记得修改镜像源https://www.cnblogs.com/feifanrensheng/p/9669769.html  
+
+pycharm连接远程服务器
+https://www.cnblogs.com/zhuminghui/p/10947930.html
