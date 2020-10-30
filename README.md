@@ -93,3 +93,6 @@ https://www.jarod8.cn/index.php/archives/5/
 
 pycharm连接远程服务器
 https://www.cnblogs.com/zhuminghui/p/10947930.html
+
+AS
+git clone报错 OpenSSL SSL_connect: Connection was reset in connection to github.com:443  解决：https://www.jianshu.com/p/3ca2d0f049e7
