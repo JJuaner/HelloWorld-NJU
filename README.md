@@ -101,4 +101,8 @@ Gradle sync failed: Read timed out报错，解决：https://blog.csdn.net/mxy198
 
 fix DAN（Xlearn）代码  
 1.datalist路径  
-2.narrow //
+2.narrow //  
+3.data[0]->data.item()  
+
+MMD的平方 https://www.zhihu.com/question/288185961
+
