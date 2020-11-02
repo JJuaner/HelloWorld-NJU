@@ -97,3 +97,8 @@ https://www.cnblogs.com/zhuminghui/p/10947930.html
 AS
 git clone报错 OpenSSL SSL_connect: Connection was reset in connection to github.com:443  解决：https://www.jianshu.com/p/3ca2d0f049e7    
 Gradle sync failed: Read timed out报错，解决：https://blog.csdn.net/mxy19891106/article/details/105826939/
+
+
+fix DAN（Xlearn）代码  
+1.datalist路径  
+2.narrow //
