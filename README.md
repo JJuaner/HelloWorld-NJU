@@ -90,22 +90,20 @@ https://www.jarod8.cn/index.php/archives/5/
 1.复现JDA代码
 >>a.参考王晋东github：https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA/JDA.py  
 >>b.pip导包：1.打开的目录pip即可 2.注意使用pip3 3.如果极慢第一次记得修改镜像源
-1、创建文件夹 mkdir -p 文件夹名  p 确保目录名称存在，不存在的就建一个。   
-2、创建文件  如：touch a.txt    
+1)创建文件夹 mkdir -p 文件夹名  p 确保目录名称存在，不存在的就建一个。   
+2)创建文件  如：touch a.txt    
 https://www.cnblogs.com/feifanrensheng/p/9669769.html  
 
+## Day(2020.10.30)
 pycharm连接远程服务器
 https://www.cnblogs.com/zhuminghui/p/10947930.html
 
+## Day(2020.10.31)
 AS
-git clone报错 OpenSSL SSL_connect: Connection was reset in connection to github.com:443  解决：https://www.jianshu.com/p/3ca2d0f049e7    
-Gradle sync failed: Read timed out报错，解决：https://blog.csdn.net/mxy19891106/article/details/105826939/
+>>git clone报错 OpenSSL SSL_connect: Connection was reset in connection to github.com:443  解决：https://www.jianshu.com/p/3ca2d0f049e7    
+>>Gradle sync failed: Read timed out报错，解决：https://blog.csdn.net/mxy19891106/article/details/105826939/
 
-
-fix DAN（Xlearn）代码  
-1.datalist路径  
-2.narrow //  
-3.data[0]->data.item()  
-
-MMD的平方 https://www.zhihu.com/question/288185961
+## Day(2020.11.2)
+fix DAN（Xlearn）代码：1.datalist路径 2.narrow //  3.data[0]->data.item()    
+MMD的平方理解 https://www.zhihu.com/question/288185961
 
