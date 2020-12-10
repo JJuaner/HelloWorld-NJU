@@ -107,3 +107,5 @@ AS
 fix DAN（Xlearn）代码：1.datalist路径 2.narrow //  3.data[0]->data.item()    
 MMD的平方理解 https://www.zhihu.com/question/288185961
 
+readme语法：
+https://blog.csdn.net/li717570518/article/details/42493467
