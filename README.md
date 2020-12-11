@@ -109,3 +109,7 @@ MMD的平方理解 https://www.zhihu.com/question/288185961
 
 readme语法：
 https://blog.csdn.net/li717570518/article/details/42493467
+
+onedrive  
+更矮本地存储位置：右击设置取消链接本电脑后->添加账户重新登陆时更改位置  
+文件状态说明：https://zhuanlan.zhihu.com/p/64118484
