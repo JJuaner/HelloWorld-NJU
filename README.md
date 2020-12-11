@@ -117,3 +117,5 @@ onedrive占用本地磁盘：释放空间（释放本地空间）
 
 go语言快速入门：
 https://www.cnblogs.com/dingxiaoqiang/p/11018052.html
+
+vscode安装：https://www.cnblogs.com/csji/p/13558221.html
