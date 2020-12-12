@@ -120,3 +120,6 @@ https://www.cnblogs.com/dingxiaoqiang/p/11018052.html
 
 vscode安装：https://www.cnblogs.com/csji/p/13558221.html
 go+vscode:https://blog.csdn.net/adolphkevin/article/details/90274378
+
+go语言语法-func与函数名之间的括号：http://www.iamlintao.com/6976.html  
+go语言不是面向对象的语言，没有类的概念但是可以给类型（结构体，自定义类型）定义方法。定义方法的方式是为函数定义接受体：在func关键字和函数名之间用括号定义参数
