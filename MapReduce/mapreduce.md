@@ -19,4 +19,11 @@ hadoop生态：DFS，MR，Yarn（资源调度）一般认为前两者封装好�
 
 
 mapreduce课：怎么并行化
-mapreduce是种编程范式，都分为两阶段，中间阶段都约束
+mapreduce是种编程范式，都分为两阶段，中间阶段都进行约束
+
+Apache spark相比于mapreduce干的一件事
+如果内存够，数据不写到磁盘，如果内存够维存在内存，并处理内存掉电问题（83w-code）
+
+Hive查询
+
+所以以上形成的大数据处理的生态
