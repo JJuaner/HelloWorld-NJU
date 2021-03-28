@@ -125,4 +125,8 @@ go语言语法-func与函数名之间的括号：http://www.iamlintao.com/6976.h
 go语言不是面向对象的语言，没有类的概念但是可以给类型（结构体，自定义类型）定义方法。定义方法的方式是为函数定义接受体：在func关键字和函数名之间用括号定义参数
 
 ## Day（2021.3.26）
-pytorchvision.datasets.MNIST processed文件下载地址：https://github.com/foowaa/torchvision-datasets-mnist
+pytorchvision.datasets.MNIST processed文件下载地址：https://github.com/foowaa/torchvision-datasets-mnist  
+介绍：https://zhuanlan.zhihu.com/p/116482019
+
+## Day（2021.3.27）
+vscode+python 运行时工作环境问题：1.interpreter（找不到库） 2.运行根目录（dataset.MNIST文件找不到，其实是目录问题）
