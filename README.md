@@ -130,3 +130,6 @@ pytorchvision.datasets.MNIST processed文件下载地址：https://github.com/fo
 
 ## Day（2021.3.27）
 vscode+python 运行时工作环境问题：1.interpreter（找不到库） 2.运行根目录（dataset.MNIST文件找不到，其实是目录问题）
+
+## Day（2021.5.8）
+wsl python：python3 pip3
