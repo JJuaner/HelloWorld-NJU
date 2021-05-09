@@ -133,3 +133,9 @@ vscode+python 运行时工作环境问题：1.interpreter（找不到库） 2.�
 
 ## Day（2021.5.8）
 wsl python：python3 pip3
+
+## Day（2021.5.9）
+vscode+服务器操作
+vscode打开服务器配置文件快捷键：ctrl+shift+P   
+cmd命令：scp -P 1422 本地路径 目标路径  
+**（注意大写P）**
