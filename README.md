@@ -139,3 +139,8 @@ vscode+服务器操作
 vscode打开服务器配置文件快捷键：ctrl+shift+P   
 cmd命令：scp -P 1422 本地路径 目标路径  
 **（注意大写P）**
+
+## Day（2021.5.10）
+从服务器复制文件到本地
+cmd：scp命令（不能排除文件）  
+wsl：rsync命令（可排除文件rsync av -e 'ssh -p xxx' --exclude='*.out' /path/to/source/ user@hostB:/path/to/dest/—）
