@@ -144,3 +144,7 @@ cmd命令：scp -P 1422 本地路径 目标路径
 从服务器复制文件到本地
 cmd：scp命令（不能排除文件）  
 wsl：rsync命令（可排除文件rsync av -e 'ssh -p xxx' --exclude='*.out' /path/to/source/ user@hostB:/path/to/dest/—）
+
+## Day（2021.5.14）
+踩坑ImportError: /anaconda3/envs/dmg/bin/../lib/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by /anaconda3/envs/dmg/lib/python3.6/site-packages/kiwisolver.cpython-36m-x86_64-linux-gnu.so) 
+解决方案：https://github.com/AllenDowney/ThinkStats2/issues/92 ：conda install libgcc
