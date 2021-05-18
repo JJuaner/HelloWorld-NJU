@@ -148,3 +148,10 @@ wsl：rsync命令（可排除文件rsync av -e 'ssh -p xxx' --exclude='*.out' /p
 ## Day（2021.5.14）
 踩坑ImportError: /anaconda3/envs/dmg/bin/../lib/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by /anaconda3/envs/dmg/lib/python3.6/site-packages/kiwisolver.cpython-36m-x86_64-linux-gnu.so) 
 解决方案：https://github.com/AllenDowney/ThinkStats2/issues/92 ：conda install libgcc
+
+## Day（2021.5.17）
+实验踩坑：
+功能需求：根据不同loss更新网络不同部分  
+问题：pytorch报错（RuntimeError: one of the variables needed for gradient computation has been modified by an inplace）  
+尝试修改nn.relu(inplace=False):没有解决   
+最终参考GAN使用detach解决，https://blog.csdn.net/qxqsunshine/article/details/82973979 （原方法为part1思路，不知道为什么报错，参考part 2使用detach解决）   
