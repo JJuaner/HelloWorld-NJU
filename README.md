@@ -155,3 +155,10 @@ wsl：rsync命令（可排除文件rsync av -e 'ssh -p xxx' --exclude='*.out' /p
 问题：pytorch报错（RuntimeError: one of the variables needed for gradient computation has been modified by an inplace）  
 尝试修改nn.relu(inplace=False):没有解决   
 最终参考GAN使用detach解决，https://blog.csdn.net/qxqsunshine/article/details/82973979 （原方法为part1思路，不知道为什么报错，参考part 2使用detach解决）   
+
+## Day（2021.5.26）
+安装paddlehub踩坑，一直失败
+报错：Command "python setup.py egg_info" failed with error code 1 in /tmp/pip-build-g3ejgnqb/seqeval/
+报错：  Could not find a version that satisfies the requirement paddlehub (from versions: )
+No matching distribution found for paddlehub
+解决：pip3 install --upgrade pip
