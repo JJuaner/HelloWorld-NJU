@@ -162,3 +162,4 @@ wsl：rsync命令（可排除文件rsync av -e 'ssh -p xxx' --exclude='*.out' /p
 报错：  Could not find a version that satisfies the requirement paddlehub (from versions: )
 No matching distribution found for paddlehub
 解决：pip3 install --upgrade pip
+ 
