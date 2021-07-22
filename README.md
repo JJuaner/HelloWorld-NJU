@@ -166,4 +166,10 @@ No matching distribution found for paddlehub
 
 ## Day（2021.7.15）
 linux 安装anconda3：https://blog.csdn.net/qq_41865652/article/details/104062407
+
+## Day（2021.7.22）
+python读写excel
+读取xlsm文件有问题，尤其是写方面
+xls文件也可以使用宏（信任中心修改）
+关闭保存的通知可在（excel = win32.Dispatch("Excel.Application")）级别关闭：excel.DisplayAlerts = False 
  
