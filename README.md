@@ -176,3 +176,7 @@ xls文件也可以使用宏（信任中心修改）
 
 pytorch踩坑(上次百思不得其解，以及这次代码修改后报错）
 device-type/GPU指定问题：要赋值否则无效！a=a.cuda()/a.to(device) https://www.codenong.com/cs109356923/
+
+踩坑程序莫名被kill
+解决方案：https://blog.csdn.net/ID_AF12/article/details/119681583
+原因总结：内存不够
